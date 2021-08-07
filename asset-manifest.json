@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ForRoe/cv-react/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ForRoe/cv-react/static/js/main.b9c73791.chunk.js",
-    "main.js.map": "/ForRoe/cv-react/static/js/main.b9c73791.chunk.js.map",
-    "runtime-main.js": "/ForRoe/cv-react/static/js/runtime-main.3ff3203a.js",
-    "runtime-main.js.map": "/ForRoe/cv-react/static/js/runtime-main.3ff3203a.js.map",
-    "static/js/2.23f1fc8e.chunk.js": "/ForRoe/cv-react/static/js/2.23f1fc8e.chunk.js",
-    "static/js/2.23f1fc8e.chunk.js.map": "/ForRoe/cv-react/static/js/2.23f1fc8e.chunk.js.map",
-    "index.html": "/ForRoe/cv-react/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/ForRoe/cv-react/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.23f1fc8e.chunk.js.LICENSE.txt": "/ForRoe/cv-react/static/js/2.23f1fc8e.chunk.js.LICENSE.txt"
+    "main.css": "/cv-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/cv-react/static/js/main.b9c73791.chunk.js",
+    "main.js.map": "/cv-react/static/js/main.b9c73791.chunk.js.map",
+    "runtime-main.js": "/cv-react/static/js/runtime-main.58badd05.js",
+    "runtime-main.js.map": "/cv-react/static/js/runtime-main.58badd05.js.map",
+    "static/js/2.23f1fc8e.chunk.js": "/cv-react/static/js/2.23f1fc8e.chunk.js",
+    "static/js/2.23f1fc8e.chunk.js.map": "/cv-react/static/js/2.23f1fc8e.chunk.js.map",
+    "index.html": "/cv-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/cv-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.23f1fc8e.chunk.js.LICENSE.txt": "/cv-react/static/js/2.23f1fc8e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ff3203a.js",
+    "static/js/runtime-main.58badd05.js",
     "static/js/2.23f1fc8e.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.b9c73791.chunk.js"
